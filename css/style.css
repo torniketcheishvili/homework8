@@ -1,0 +1,20 @@
+button {
+    background-color: pink;
+    color: white;
+    width: 200px;
+    height: 100px;
+    border-style: none;
+    border-radius: 10px;
+    margin: auto;
+    filter: drop-shadow(4px 5px 5px black);
+    box-shadow:inset 2px 2px 5px white;
+    text-shadow: 2px 3px 2px black ;
+}
+
+.button_div {
+    width: 300px;
+    height: 200px;
+    background-color: pink;
+    margin: 200px;
+    display: flex;
+}
